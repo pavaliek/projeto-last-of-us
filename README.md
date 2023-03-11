@@ -23,6 +23,8 @@ Se você gostaria de contribuir para o The Last of Us GIF Hub, sinta-se à vonta
 
 </p>
 
-https://pavaliek.github.io/projeto-last-of-us/
+<p align="center">
+Link para a preview:
+https://pavaliek.github.io/projeto-last-of-us/</p>
 
 
