@@ -5,7 +5,7 @@
 
 **Introdução**
 <p align="justify"> 
-  The Last of Usé uma série de televisão de drama e ação pós-apocalíptico baseada no jogo de videogame homônimo da Naughty Dog. A série é produzida pela HBO e conta com a direção de Craig Mazin, o criador da aclamada série Chernobyl.
+  The Last of Us é uma série de televisão de drama e ação pós-apocalíptico baseada no jogo de videogame homônimo da Naughty Dog. A série é produzida pela HBO e conta com a direção de Craig Mazin, o criador da aclamada série Chernobyl.
 
   A trama se passa em um mundo pós-apocalíptico em que a maioria da população foi devastada por um fungo mortal. A história acompanha a jornada de Joel, um sobrevivente durão, e Ellie, uma adolescente corajosa, enquanto eles viajam por um Estados Unidos desolado em busca de sobrevivência e uma possível cura para a doença.
 
